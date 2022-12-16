@@ -1,0 +1,1 @@
+﻿enum statet {TIESTONE = 1, TIESISOR = 2, TIEPAPAR = 4, PAPERWON = 5, STONEWON = 3, SISORWON = 6, TIE = 0,};
