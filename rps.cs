@@ -1,0 +1,1 @@
+class rps{enum outcomes{TIE_ON_ROCK=114,TIE_ON_PAPER=116,TIE_ON_SCISSORS=120,ROCK_WON=122,PAPER_WON=118,SCISSORS_WON=124,};public static void Main(){start:System.Console.WriteLine((outcomes)(System.Console.ReadKey(true).KeyChar|System.Console.ReadKey(true).KeyChar)+"\nr=Rock t=Paper x=Scissors\nDon't press enter!");goto start;}}
